@@ -8,8 +8,6 @@ Backup msdn.itellyou.cn core data written with python3 and sqlite3.
  - 共计 `2129` 条目镜像信息 
  - 最新官方镜像数据更新截止 `2020-01-21` 
  - 最早的官方镜像数据追溯到 `1998-04-22` 
- - 最大单个镜像文件 `7.25GB` 是 `Visual Studio Enterprise 2015 with Update 3 (x86 and x64) - DVD (Chinese-Simplified)` 
- - 最小单个镜像文件 `994.03KB` 是 `Visual Studio Enterprise 15 Preview 5 (x86 and x64) - (Multiple Languages)`
 
 ## Overview
 ![](doc/db_screenshot_2021-03-11.jpg)
